@@ -1,5 +1,7 @@
 # 欢迎你使用Loginshow
 
+注：考虑Google被墙，后面去掉了原网站的讨论和分享区。这就是为什么你看到这个页面的原因。2021/1， Evel
+
 ## 使用方法：
 
 非常简单，第一次解压，双击就可以用了，第二次以后直接按照以前的方式启动allegro就行了，F12是快捷键。
@@ -10,9 +12,9 @@
 如果加载后再pcbenv下面可以找到loginshow.il文件；allegro.ilinit会增加加载代码。手动也是一样的和之前没啥区别。密码www.pcbskill.com
 2，一些快捷键：
 F8：保持database
-F9:查看物件属性
-F11:打开Database目录
-F12是启动程序快捷键
+F9：查看物件属性
+F11：打开Database目录
+F12：是启动程序快捷键
 Ctrl+Up：截屏（v163新增）
 ```
 
@@ -52,4 +54,4 @@ Ctrl+Up：截屏（v163新增）
 > 1,初步的架构和功能实现。
 
 ### 下载链接
-[点我跳转] (https://www.eda365.com/forum.php?mod=viewthread&tid=47466)
+[点我跳转](https://www.eda365.com/forum.php?mod=viewthread&tid=47466)
