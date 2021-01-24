@@ -1,6 +1,6 @@
 # 欢迎你使用Loginshow
 
-Loginshow是一个Allegro Skill Loader,算是学习EDA开发以来第一个分享给同行的工具。主要用来加载Allegro skill脚本。自从在EDA365第一次发布以来，已经走过了10年光阴。
+Loginshow是一个Allegro Skill Loader，算是学习EDA开发以来第一个分享给同行的工具。主要用来加载Allegro skill脚本。自从在EDA365第一次发布以来，已经走过了10年光阴。
 注：考虑Google被墙，后面去掉了原网站的讨论和分享区。这就是为什么你看到这个页面的原因。-- 2021/1，Evel
 
 <img src="./GUI.png" alt="hi" class="inline"/>
