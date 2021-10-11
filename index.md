@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"></script>
+
 # 欢迎你使用Loginshow
 
 Loginshow是一个Allegro Skill Loader，算是学习EDA开发以来第一个分享给同行的工具。主要用来加载Allegro skill脚本。自从在EDA365第一次发布以来，已经走过了10年光阴。
