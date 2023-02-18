@@ -1,5 +1,4 @@
-<script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"></script>
-<script> Chatra('openChat'[, focus]) </script>
+<script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"> Chatra('expandWidget'); </script>
 
 # 欢迎你使用Loginshow
 
