@@ -1,8 +1,18 @@
-<script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"></script>
 <script>
 window.ChatraSetup = {
     startHidden: true
 };
+</script>
+<script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"></script>
+<script>
+window.ChatraSetup = {
+    mode: 'frame',
+    /* id of the block you want to embed chat into */
+    injectTo: 'chatgpt',
+};
+</script>
+<script>
+Chatra('expandWidget');
 </script>
 
 # 欢迎你使用Loginshow
@@ -71,3 +81,6 @@ Ctrl+Up：截屏（v163新增）
 
 ### 下载链接
 [点我跳转](https://www.eda365.com/forum.php?mod=viewthread&tid=47466)
+
+<div id="chatgpt">
+</div>
