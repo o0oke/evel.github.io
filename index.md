@@ -1,8 +1,3 @@
-<script>
-window.ChatraSetup = {
-    startHidden: true
-};
-</script>
 <script type="text/javascript" src="http://www.evel.cn/javascripts/chatra.js"></script>
 <script>
 window.ChatraSetup = {
