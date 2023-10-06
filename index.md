@@ -65,20 +65,3 @@ Ctrl+Up：截屏（v163新增）
 
 ### 下载链接
 [点我跳转](https://www.eda365.com/forum.php?mod=viewthread&tid=47466)
-
-
-<script src="https://giscus.app/client.js"
-        data-repo="o0oke/loginshow"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkxNjk2NzM2MjA="
-        data-category="Q&A"
-        data-category-id="DIC_kwDOCh0DlM4CZMVV"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light_protanopia"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
